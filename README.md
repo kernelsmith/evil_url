@@ -24,7 +24,7 @@ evil_url=http://i.am.an.evil.url
 
 ### Getting a URL
 
-just issue a GET to the server, almost anything except what's noted below
+just issue a GET to the server, almost anything except what's noted below, and you'll be redirected to the evil url
 
 ### Adding a URL via a form
 
