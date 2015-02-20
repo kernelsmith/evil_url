@@ -1,7 +1,7 @@
 evil_url
 ========
 
-Very simple sinatra app that stores and serves up evil urls.
+Very simple sinatra app that stores and serves up evil urls.  URLs don't have to be evil of course
 
 Usage:
 
