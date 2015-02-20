@@ -5,7 +5,7 @@ Very simple sinatra app that stores and serves up evil urls.
 
 Usage:
 
-run evil_url.rb
+ruby evil_url.rb
 
 ### Adding a URL
 issue a POST with evil_url parameter to the server
@@ -20,6 +20,7 @@ POST IP
 application/x-www-form-urlencoded
 
 evil_url=http://i.am.an.evil.url
+```
 
 ### Getting a URL
 
